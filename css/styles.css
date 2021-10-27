@@ -1,7 +1,7 @@
 body {
    color: purple;
    font-family: 'Times New Roman', Times, serif; 
-   font-size: 40px;
+   font-size: 3vw;
 }
 
 .title {
@@ -20,13 +20,13 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 20px;
-    width: 200px;
+    padding: 1vw;
+    width: 20vw;
     box-shadow: 5px 5px 10px 1px rgba(53, 53, 53, 0.5);
 }
 
 .field:not(:last-child) {
-    margin-right: 30px;
+    margin-right: 2vw;
 }
 
 
@@ -35,20 +35,20 @@ body {
 }
 
 .value {
-    font-size: 100px;
+    font-size: 9vw;
     display: flex;
     justify-content: center;
     text-align: center;
     text-align: start;
-    margin-bottom: 50px;
+    margin-bottom: 2vw;
     
    
 }
 
 
 .image {
-    margin-top: 20px;
+    margin-top: 2vw;
     margin-left: auto;
     margin-right: auto;  
-    width: 15%;
+    width: 15vw;
 }
